@@ -1,5 +1,13 @@
 # vue2-project
 
+## Component
+
+- element ui
+
+## Api
+
+- axios
+
 ## Project setup
 
 ```
@@ -28,11 +36,3 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Component
-
-- element ui
-
-### Api
-
-- axios
