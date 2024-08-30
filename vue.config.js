@@ -20,5 +20,8 @@ module.exports = defineConfig({
   devServer: {
     // port: 8000, // 端口号
     open: true,
+    client: {
+      overlay: false //编译错误时，取消全屏覆盖（建议关掉）
+    }
   },
 });
